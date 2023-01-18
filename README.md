@@ -1,4 +1,4 @@
-# openvpn-client-rio-base
+# openvpn-client-rio
 Even more all-in-one OpenVPN docker, now also comes with *arr apps.
 
 Note: At some point late 2022, mono cannot be installed in docker ubuntu arm32 due to a circular dependency error. Hence I will not be building arm32 (aka armhf / armv7) for a while.
